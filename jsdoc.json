@@ -1,0 +1,21 @@
+{
+    "plugins": [],
+    "source": {
+        "include": ["src"],
+        "includePattern": ".js$",
+        "excludePattern": "(node_modules|docs)"
+    },
+    "plugins": ["plugins/markdown", "better-docs/component"],
+    "templates": {
+        "cleverLinks": false,
+        "monospaceLinls": false,
+        "better-docs": {
+            "name": "My React components"
+        }
+    },
+    "opts": {
+        "recurse": "true",
+        "destination": "./docs",
+        "readme": "./readme.md"
+    }
+}

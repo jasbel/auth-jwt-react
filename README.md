@@ -18,7 +18,6 @@ redux
 redux-thunk
 sweetalert2
 
-| ---- | ---- |
 | Plugins | Description |
 | ---- | ---- |
 | dotenv | Para usar las variables de entorno del sistema |
@@ -33,4 +32,3 @@ sweetalert2
 | sweetalert2 | Notificaciones |
 | jsdoc | documentacion del codigo |
 | better-docs | Plantilla de estilo para @jsdoc |
-| ---- | ---- |

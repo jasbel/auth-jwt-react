@@ -6,7 +6,6 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
-    "better-docs": "^2.3.2",
     "dotenv": "^8.2.0",
     "moment": "^2.26.0",
     "react": "^16.13.1",
@@ -16,7 +15,7 @@
     "react-modal": "^3.11.2",
     "react-redux": "^7.2.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1",
+    "react-scripts": "^4.0.1",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
     "sweetalert2": "^9.14.3"
@@ -44,6 +43,7 @@
     ]
   },
   "devDependencies": {
+    "better-docs": "^2.3.2",
     "jsdoc": "^3.6.6"
   }
 }
